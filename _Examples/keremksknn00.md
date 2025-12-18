@@ -1,42 +1,44 @@
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello!;I'm+Kerem+%F0%9F%91%8B;Software+Engineering+Student;at+Gumushane+University;" alt="Typing SVG" />
+</p
+    
 
-<h1 align="center">
-  Merhaba 👋 Ben Kerem
-</h1>
-<br>
 
-<p align="center">
-  <a href="https://github.com/keremksknn00">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:keskinkerem264@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+### 💻 Software Engineering Student and Developer
+
+I am Kerem, a 19-year-old Software Engineering student. I am currently studying at Gümüşhane University and continuously striving to enhance my coding skills.
+
+
 
 ---
 
-### 👨‍💻 Hakkımda
-- 🌱 C++ öğreniyorum.
-- 👯 Teknofest projelerinde işbirliği yapmak isterim.
-- 🤔 C++ hakkında yardıma ihtiyacım var 
-- 📫 Bana nasıl ulaşabilirsiniz: instagram:_keremkeskn
-<br>
+### 🛠️ My Current Focus and Skills
 
-### 🚀 Kullandığım Teknolojiler
+I am currently focused on building a strong foundational knowledge in programming.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-</p>
+| **Main Language** | C++ , HTML | Learning (Intensive) |
+| **Future Plan**| Python / Web Development (CSS) | Planned |
 
-<br>
 
-### 📊 GitHub İstatistiklerim
+
+---
+
+### 🌐 Get In Touch
+
+Feel free to contact me for collaborations, project suggestions, or just a quick chat.
+
+* **Instagram (Personal)**: `_keremkeskn`
+* **Email (Professional)**: `keskinkerem264@gmail.com`
+
+
+
+---
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&locale=tr&theme=radical" alt="GitHub İstatistikleri" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremksknn00&layout=compact&locale=tr&theme=radical" alt="En Çok Kullanılan Diller" />
+    <img src="https://github-readme-stats.vercel.app/api?username=keremksknn00&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Kerem's GitHub Stats" />
 </p>
+<p align="center">
+    <img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@keremksknn00?theme=aot">
+    </p>
 
-### I'am Listing Now
-
-<img width="40%" align="center" src="https://spotify-github-profile.onrender.com/card?uid=31b5rtd2gekntlumpfz6l63ialja&theme=classic&logo=true"/>
