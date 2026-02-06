@@ -14,6 +14,12 @@
 
 > **TR:** Bu depo, harika README'ler oluşturmak için kapsamlı bir rehberdir ve birden fazla dilde mevcuttur. Lütfen yukarıdan tercih ettiğiniz dili seçin.
 
+## ✨ Support the Project
+
+If this guide helped you create a better README, here is how you can say thanks:
+* 🌟 **Star this repository** to help others find it.
+* 🍴 **Fork it** and add your own profile to the gallery.
+* 📢 **Share it** with your fellow developers on social media.
 
 <h2 align="center">Top contributor</h2>
 
